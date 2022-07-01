@@ -1,0 +1,12 @@
+{
+  "name": "01-graphql-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cecilialourenco/01-graphql-course.git",
+  "author": "Cecilia Lourenco <ceciliamblourenco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
